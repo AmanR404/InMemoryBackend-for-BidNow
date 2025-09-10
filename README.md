@@ -7,7 +7,7 @@ The project is built with a modern tech stack to ensure scalability, real-time u
 - 🔐 **Secure Authentication** using **OAuth**  
 - 🎨 **Modern UI** styled with **Tailwind CSS**  
 - ⚡ **Real-Time Bidding** powered by **WebSockets (Socket.IO)**  
-- 🗄️ **MySQL Database** for storing bids and product details  
+- 🗄️ **InMemory Database** for storing bids and product details  
 - 🛠️ **Backend API** with **Node.js & Express.js**  
 - 🖥️ **Frontend** with **React.js**  
 
@@ -23,7 +23,6 @@ The project is built with a modern tech stack to ensure scalability, real-time u
 ### Backend
 - [Node.js](https://nodejs.org/)  
 - [Express.js](https://expressjs.com/)  
-- [MySQL](https://www.mysql.com/)  
 
 ### Real-Time
 - [Socket.IO](https://socket.io/)  
